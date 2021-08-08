@@ -51,4 +51,3 @@ void print_queue(){
     }
     printf("\n");
 }
-
